@@ -1,4 +1,3 @@
-# week_8_capstone
 # Capstone Project: Telecom Customer Churn Analysis
 
 ## 📌 Business Problem
